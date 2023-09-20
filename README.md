@@ -24,7 +24,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthroug![project_onewalkthrough](https://github.com/Davidfaleye360/project_1/assets/132557877/14306e50-eb5b-4069-8f44-fca49c0b61eb)
+h of implemented required features:
 <img src='https://submissions.us-east-1.linodeobjects.com/web102/YXiOQWLW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
