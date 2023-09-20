@@ -26,7 +26,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough![project_onewalkthrough](https://github.com/Davidfaleye360/project_1/assets/132557877/14306e50-eb5b-4069-8f44-fca49c0b61eb)
  of implemented required features:
-<img src='https://github.com/Davidfaleye360/project_1/assets/132557877/14306e50-eb5b-4069-8f44-fca49c0b61eb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 Lice Cap
